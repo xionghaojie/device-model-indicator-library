@@ -39,10 +39,10 @@ cd 单机模型和指标库
 | -------- | ---- |
 | 星敏感器 | `LX630STT` |
 | 光纤陀螺 | `LX630GYR(FOG)` |
-| 三轴磁强计 | `LX630MGM66k` |
+| 三轴磁强计 | `LX630MGM60k` |
 | 太阳敏感器 | `LX630SNS90` |
-| 反作用飞轮 | `LX630WHL2p4Nms` |
-| 磁力矩器 | `LX630MGTQ12Am2` |
+| 反作用飞轮 | `LX630WHL2Nms` |
+| 磁力矩器 | `LX630MGTQ10Am2` |
 
 ### YYMQ9 系列
 
@@ -50,10 +50,10 @@ cd 单机模型和指标库
 | -------- | ---- |
 | 星敏感器 | `YYMQ9STT` |
 | 光纤陀螺 | `YYMQ9GYR(FOG)` |
-| 三轴磁强计 | `YYMQ9MGM65k` |
-| 太阳敏感器 | `YYMQ9SNS90` |
-| 反作用飞轮 | `YYMQ9WHL9Nms` |
-| 磁力矩器 | `YYMQ9MGTQ90Am2` |
+| 三轴磁强计 | `YYMQ9MGM` |
+| 太阳敏感器 | `YYMQ9SNS` |
+| 反作用飞轮 | `YYMQ9WHL8Nms` |
+| 磁力矩器 | `YYMQ9MGTQ75Am2` |
 
 ## 命名约定
 
